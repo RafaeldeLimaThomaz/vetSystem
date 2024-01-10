@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://rafaeldelimathomaz.github.io/vetSystem",
+=======
+  "homepage": "https://github.com/RafaeldeLimaThomaz.github.io/vetSystem",
+>>>>>>> 1a5e03aed2c94fd973e8f4a0b03a4503e972d36b
   "name": "animated-sidebar-indicator",
   "version": "0.1.0",
   "private": true,
