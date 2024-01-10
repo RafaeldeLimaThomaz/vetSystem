@@ -55,8 +55,6 @@ const NewExam = () => {
     padding: '100px', 
     textAlign: 'center', 
     height: '100px',
-    alignItems: 'center', 
-    justifyContent: 'center',
     margin: '10px'
     }}>
         <input {...getInputProps()} />

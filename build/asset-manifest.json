@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/RafaeldeLimaThomaz.github.io/vetSystem/static/css/main.a330fe9d.css",
+    "main.js": "/RafaeldeLimaThomaz.github.io/vetSystem/static/js/main.8d2f6152.js",
+    "static/media/boxicons.svg": "/RafaeldeLimaThomaz.github.io/vetSystem/static/media/boxicons.17f6cb4eef77f07f2caa.svg",
+    "static/media/boxicons.eot": "/RafaeldeLimaThomaz.github.io/vetSystem/static/media/boxicons.dfc882ec9689f820c7c9.eot",
+    "static/media/boxicons.woff": "/RafaeldeLimaThomaz.github.io/vetSystem/static/media/boxicons.1a7e2e2bf3a855e674d4.woff",
+    "static/media/boxicons.ttf": "/RafaeldeLimaThomaz.github.io/vetSystem/static/media/boxicons.22afc8ee5cfc540cddff.ttf",
+    "static/media/dog.png": "/RafaeldeLimaThomaz.github.io/vetSystem/static/media/dog.dd53f95dcf5013cd74dc.png",
+    "static/media/boxicons.woff2": "/RafaeldeLimaThomaz.github.io/vetSystem/static/media/boxicons.60f603cccbdff82a523c.woff2",
+    "index.html": "/RafaeldeLimaThomaz.github.io/vetSystem/index.html",
+    "main.a330fe9d.css.map": "/RafaeldeLimaThomaz.github.io/vetSystem/static/css/main.a330fe9d.css.map",
+    "main.8d2f6152.js.map": "/RafaeldeLimaThomaz.github.io/vetSystem/static/js/main.8d2f6152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a330fe9d.css",
+    "static/js/main.8d2f6152.js"
+  ]
+}
